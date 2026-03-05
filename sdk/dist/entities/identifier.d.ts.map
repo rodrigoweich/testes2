@@ -1,0 +1,1 @@
+{"version":3,"file":"identifier.d.ts","sourceRoot":"","sources":["../../src/entities/identifier.ts"],"names":[],"mappings":"AAAA,8BAAsB,UAAU,CAAC,CAAC;IAClB,SAAS,CAAC,QAAQ,CAAC,KAAK,EAAE,CAAC;gBAAR,KAAK,EAAE,CAAC;IAEhC,QAAQ,IAAI,CAAC;IAIb,MAAM,CAAC,EAAE,CAAC,EAAE,UAAU,CAAC,CAAC,CAAC,GAAG,OAAO;IAKnC,QAAQ,IAAI,MAAM;CAG5B"}

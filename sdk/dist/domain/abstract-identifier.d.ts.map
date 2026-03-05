@@ -1,0 +1,1 @@
+{"version":3,"file":"abstract-identifier.d.ts","sourceRoot":"","sources":["../../src/domain/abstract-identifier.ts"],"names":[],"mappings":"AAAA,8BAAsB,kBAAkB,CAAC,CAAC;IAC1B,SAAS,CAAC,QAAQ,CAAC,KAAK,EAAE,CAAC;gBAAR,KAAK,EAAE,CAAC;IAEhC,QAAQ,IAAI,CAAC;IAIb,MAAM,CAAC,EAAE,CAAC,EAAE,kBAAkB,CAAC,CAAC,CAAC,GAAG,OAAO;IAK3C,QAAQ,IAAI,MAAM;CAG5B"}

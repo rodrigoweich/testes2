@@ -1,0 +1,22 @@
+{
+  "name": "karrbo-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm -r --parallel dev",
+    "lint": "biome check .",
+    "format": "biome format . --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.3",
+  "engines": {
+    "node": "24"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "extends": "../../configs/typescript/tsconfig.next.json",
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}

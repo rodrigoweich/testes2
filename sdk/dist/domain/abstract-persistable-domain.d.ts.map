@@ -1,0 +1,1 @@
+{"version":3,"file":"abstract-persistable-domain.d.ts","sourceRoot":"","sources":["../../src/domain/abstract-persistable-domain.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AACnD,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,aAAa,CAAC;AAE5C,8BAAsB,yBAAyB,CAAC,KAAK,EAAE,GAAG,SAAS,QAAQ,GAAG,QAAQ,CAAE,SAAQ,cAAc,CAAC,KAAK,EAAE,GAAG,CAAC;CACzH"}
